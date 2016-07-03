@@ -13,7 +13,7 @@ public class Main {
 //        grade.kick();
 
         Temprature_1_3 temp = new Temprature_1_3();
-
+        temp.kick();
 
     }
 }

@@ -12,9 +12,16 @@ public class Temprature_1_3 {
     char grade = 'Z';
     boolean isKeepGoing = true;
 
+    double getCelcuis(double fah){
+        return (fah-32)*5/9;
+    }
+
     boolean startProcedure() {
         do {
-
+            System.out.print("Enter Fahrenheit:");
+            System.out.println("Degrees in Celsius:"+getCelcuis(rd.nextFloat()));
+            rd.nextLine();
+            System.out.print("Continue? (y/n):");
             String userInput = rd.nextLine();
             userInput = userInput.toLowerCase();
             System.out.println(userInput);
@@ -33,3 +40,14 @@ public class Temprature_1_3 {
         startProcedure();
     }
 }
+
+//    Welcome to the Temperature Converter
+//        Enter degrees in Fahrenheit: 212
+//        Degrees in Celsius: 100
+//        Continue? (y/n): y
+//        Enter degrees in Fahrenheit: 32
+//        Degrees in Celsius: 0
+//        Continue? (y/n): y
+//        Enter degrees in Fahrenheit: 77.5
+//        Degrees in Celsius: 25.28
+//        Continue? (y/n): n
