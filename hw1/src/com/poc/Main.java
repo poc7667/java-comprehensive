@@ -1,7 +1,5 @@
 package com.poc;
 
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -11,9 +9,12 @@ public class Main {
 //
 //        Grade_1_2 grade = new Grade_1_2();
 //        grade.kick();
+//
+//        Temprature_1_3 temp = new Temprature_1_3();
+//        temp.kick();
 
-        Temprature_1_3 temp = new Temprature_1_3();
-        temp.kick();
+        Travel_1_4 travel = new Travel_1_4();
+        travel.kick();
 
     }
 }

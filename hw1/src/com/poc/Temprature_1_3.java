@@ -8,8 +8,6 @@ import java.util.Scanner;
 public class Temprature_1_3 {
 
     Scanner rd = new Scanner(System.in);
-    int scores = -1;
-    char grade = 'Z';
     boolean isKeepGoing = true;
 
     double getCelcuis(double fah){
