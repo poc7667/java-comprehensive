@@ -14,8 +14,7 @@ public class Worker {
             child.execute();
             System.out.printf("continue? (y/n)");
             isContinue = rd.next();
-            System.out.println(isContinue);
-        } while (false);//(isContinue.compareToIgnoreCase("y") == 0);
+        } while (isContinue.compareToIgnoreCase("y") == 0);
         System.out.println();
         System.out.println("Good bye!! See u soon");
     }
@@ -26,7 +25,7 @@ public class Worker {
             child.execute();
             System.out.print(continueMsg);
             isContinue = rd.next();
-            System.out.println(isContinue);
+            rd.nextLine();
         } while (isContinue.compareToIgnoreCase("y") == 0);
         System.out.println();
         System.out.println(goodByeMsg);
