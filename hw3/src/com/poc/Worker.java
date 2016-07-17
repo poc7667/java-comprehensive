@@ -20,4 +20,16 @@ public class Worker {
         System.out.println("Good bye!! See u soon");
     }
 
+    public void doIt(HomeWorkWrapper child, String continueMsg, String goodByeMsg){
+        String isContinue="y";
+        do{
+            child.execute();
+            System.out.printf(continueMsg);
+            isContinue = rd.next();
+            System.out.println(isContinue);
+        } while (false);//(isContinue.compareToIgnoreCase("y") == 0);
+        System.out.println();
+        System.out.println(goodByeMsg);
+    }
+
 }
