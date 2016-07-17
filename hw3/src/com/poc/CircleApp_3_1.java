@@ -5,16 +5,13 @@ import java.util.Scanner;
 /**
  * Created by poc on 7/16/16.
  */
-public class CircleApp_1_1 extends HomeWorkWrapper{
+public class CircleApp_3_1 extends HomeWorkWrapper{
 
     private Scanner rd = new Scanner(System.in);
     private double radius;
 
-    public CircleApp_1_1(){
-
+    public CircleApp_3_1(){
     }
-
-
 
     public void execute(){
         System.out.println("This is circle App");
@@ -27,7 +24,7 @@ public class CircleApp_1_1 extends HomeWorkWrapper{
 
     public static void main(String[] args) {
         Worker worker = new Worker();
-        CircleApp_1_1 this_instance = new CircleApp_1_1();
+        CircleApp_3_1 this_instance = new CircleApp_3_1();
         worker.doIt(this_instance);
     }
 }

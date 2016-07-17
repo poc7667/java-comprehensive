@@ -11,14 +11,13 @@ public class Worker {
     public void doIt(HomeWorkWrapper child){
         String isContinue="y";
         do{
-
             child.execute();
             System.out.printf("continue? (y/n)");
             isContinue = rd.next();
             System.out.println(isContinue);
-        }while (isContinue.compareToIgnoreCase("y") == 0);
+        } while (false);//(isContinue.compareToIgnoreCase("y") == 0);
         System.out.println();
-        System.out.println("Good bye!!"+isContinue);
+        System.out.println("Good bye!! See u soon");
     }
 
 }
