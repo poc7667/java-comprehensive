@@ -23,101 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CircleApp_3_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/CircleApp_3_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dice_3_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/Dice_3_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PigLatin_3_3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/PigLatin_3_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1654#1655#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairOfDice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/PairOfDice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#506#507#0" expanded="false" />
-                <element signature="e#547#548#0" expanded="false" />
-                <element signature="e#576#577#0" expanded="false" />
-                <element signature="e#617#618#0" expanded="false" />
-                <element signature="e#643#644#0" expanded="false" />
-                <element signature="e#689#690#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Die.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/Die.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-              <folding>
-                <element signature="e#174#175#0" expanded="false" />
-                <element signature="e#208#209#0" expanded="false" />
-                <element signature="e#233#234#0" expanded="false" />
-                <element signature="e#292#293#0" expanded="false" />
-                <element signature="e#320#321#0" expanded="false" />
-                <element signature="e#353#354#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiceRollerApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/poc/DiceRollerApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/poc/Worker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberToWordsConverter_3_4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/poc/NumberToWordsConverter_3_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-715">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,8 +73,9 @@
         <option value="$PROJECT_DIR$/src/com/poc/DiceRollerApp.java" />
         <option value="$PROJECT_DIR$/src/com/poc/Die.java" />
         <option value="$PROJECT_DIR$/src/com/poc/Dice_3_2.java" />
-        <option value="$PROJECT_DIR$/src/com/poc/Worker.java" />
         <option value="$PROJECT_DIR$/src/com/poc/PigLatin_3_3.java" />
+        <option value="$PROJECT_DIR$/src/com/poc/Worker.java" />
+        <option value="$PROJECT_DIR$/src/com/poc/NumberToWordsConverter_3_4.java" />
       </list>
     </option>
   </component>
@@ -186,7 +108,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -199,48 +121,14 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="ren&#9;ACTION&#9;RenameElement&#10;wo&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Worker.java&#10;work&#9;PSI&#9;JAVA://com.poc.Worker&#10;di&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Die.java&#10;home&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/HomeWorkWrapper.java&#10;HomeWorkWrapper&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/HomeWorkWrapper.java&#10;vali&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Validator.java&#10;rena&#9;ACTION&#9;RenameElement" />
+    <property name="SearchEverywhereHistoryKey" value="3_4&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/NumberToWordsConverter_3_4.java&#10;work&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Worker.java&#10;wor&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Worker.java&#10;vali&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Validator.java&#10;ren&#9;ACTION&#9;RenameElement&#10;wo&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Worker.java&#10;di&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/Die.java&#10;home&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/HomeWorkWrapper.java&#10;HomeWorkWrapper&#9;FILE&#9;file:///Users/poc/Dropbox/UCSC-courses 美國課程/java-comprehensive/hw3/src/com/poc/HomeWorkWrapper.java&#10;rena&#9;ACTION&#9;RenameElement" />
   </component>
-  <component name="RunManager" selected="Application.PigLatin_3_3">
-    <configuration default="false" name="CircleApp_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.poc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.poc.CircleApp_3_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="hw3" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.NumberToWordsConverter_3_4">
     <configuration default="false" name="Die" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -309,6 +197,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.poc.PigLatin_3_3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hw3" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NumberToWordsConverter_3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.poc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.poc.NumberToWordsConverter_3_4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -701,19 +609,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CircleApp_3_1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Die" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PairOfDice" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Dice_3_2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PigLatin_3_3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Die" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PairOfDice" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Dice_3_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PigLatin_3_3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NumberToWordsConverter_3_4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PigLatin_3_3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Dice_3_2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PairOfDice" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Die" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CircleApp_3_1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NumberToWordsConverter_3_4" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PigLatin_3_3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Dice_3_2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PairOfDice" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Die" />
       </list>
     </recent_temporary>
   </component>
@@ -733,12 +641,12 @@
       <workItem from="1468685860485" duration="6879000" />
       <workItem from="1468714103348" duration="2808000" />
       <workItem from="1468769623280" duration="3454000" />
-      <workItem from="1468773361261" duration="731000" />
+      <workItem from="1468773361261" duration="3742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13872000" />
+    <option name="totallyTimeSpent" value="16883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
@@ -746,13 +654,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889345" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39856556" sideWeight="0.5020877" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36768803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36670688" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -762,7 +670,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39856556" sideWeight="0.49791232" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2509047" sideWeight="0.49791232" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -835,14 +743,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#689#690#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -851,12 +752,8 @@
         <state relative-caret-position="312">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -873,9 +770,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -918,14 +813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#689#690#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -934,12 +822,8 @@
         <state relative-caret-position="312">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -956,9 +840,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -990,14 +872,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#689#690#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,12 +881,8 @@
         <state relative-caret-position="264">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="e#174#175#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1027,9 +898,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,13 +910,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/poc/ExecuteAgent.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/poc/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/poc/HomeWorkWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1059,14 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/poc/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,13 +940,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/poc/Worker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/poc/PigLatin_3_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="653">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,18 +967,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/poc/Die.java">
+    <entry file="file://$PROJECT_DIR$/src/com/poc/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="e#174#175#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="141">
+          <caret line="67" column="45" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,25 +979,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poc/Die.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#689#690#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/poc/PigLatin_3_3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/poc/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1654#1655#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poc/NumberToWordsConverter_3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

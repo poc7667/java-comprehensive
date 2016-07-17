@@ -24,10 +24,10 @@ public class Worker {
         String isContinue="y";
         do{
             child.execute();
-            System.out.printf(continueMsg);
+            System.out.print(continueMsg);
             isContinue = rd.next();
             System.out.println(isContinue);
-        } while (false);//(isContinue.compareToIgnoreCase("y") == 0);
+        } while (isContinue.compareToIgnoreCase("y") == 0);
         System.out.println();
         System.out.println(goodByeMsg);
     }
