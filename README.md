@@ -65,7 +65,6 @@ Please cd to this folder `hw2/out/production/hw2
         Continue? (y/n):
 
 
-
 ## % java com.poc.MonthlyPayment_2_4                                                                                                (git)-[master]
 
         Welcome to Loan Calculator!
