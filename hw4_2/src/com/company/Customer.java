@@ -7,7 +7,9 @@ public class Customer extends Person {
 
 
     private String customerNumber = "";
-    public Customer(){}
+    public Customer(){
+
+    }
 
     public String getCustomerNumber() {
         return customerNumber;
