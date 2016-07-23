@@ -12,8 +12,8 @@ public class PersonApp {
 
     public void execute() {
         System.out.println("Welcome to the Person Tester application");
-        userChoice = chk.getChoiceString("Create customer or employee?", "c", "e");
         while (true){
+            userChoice = chk.getChoiceString("Create customer or employee?", "c", "e");
             if (userChoice.equals("c")) {
                 createCustomer();
             } else if (userChoice.equals("e")) {
