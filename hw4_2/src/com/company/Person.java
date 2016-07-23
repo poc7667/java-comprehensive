@@ -13,8 +13,10 @@ public abstract class Person {
 
     @Override
     public String toString(){
-        System.out.printf("Name: %s %s\n", firstName, lastName);
-        System.out.printf("Email: %s \n", email);
+        return String.format("Name: %s %s\nEmail: %s \n",
+                getFirstName(),
+                getLastName(),
+                getEmail());
     }
 
     public void setFirstName(String firstName) {
