@@ -12,12 +12,12 @@ public class User {
 
     private String userId;
     private String name;
-    Account account ;
+    UserAccount userAccount;
 
     public User(String userId, String name) {
         this.userId = userId;
         this.name = name;
-        this.account = new Account(this);
+        this.userAccount = new UserAccount(this);
     }
 
     public String getUserId() {

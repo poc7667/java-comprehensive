@@ -13,7 +13,7 @@ public class Main {
             bankServer.createTransaction(bank.getUser(USER_ID));
         } while (bankServer.isContinue());
 
-        bank.getUser(USER_ID).account.finishTransactions();
+        bank.getUser(USER_ID).userAccount.finishTransactions();
 
     }
 }

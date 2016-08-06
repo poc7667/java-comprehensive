@@ -12,11 +12,11 @@ public class BankServer {
     private final double MAX_DEPOSIT = 99999999999999.0;
 
     public void showWelcomeMessage() {
-        System.out.println("Welcome to the Account application");
+        System.out.println("Welcome to the UserAccount application");
     }
 
     public void createTransaction(User user) {
-        user.account.submitTransaction(
+        user.userAccount.submitTransaction(
                 validator.getChoice("Withdrawal or deposit? (w/d):", new String[]{"w", "d"}),
                 validator.getChoice("Checking or savings? (c/s):", new String[]{"c", "s"}),
                 validator.getDoubleWithinRange("Amount?", 1, MAX_DEPOSIT)
