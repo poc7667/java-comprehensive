@@ -17,35 +17,41 @@ Run `java com.company.Main`
 
 # DEMO
 
-        Welcome to the Account application
-        Withdrawal or deposit? (w/d):w
-        Checking or savings? (c/s):s
-        Amount?101
-        Continue? (y/n):y
-        Withdrawal or deposit? (w/d):d
-        Checking or savings? (c/s):c
-        Amount?3434312
-        Continue? (y/n):y
-        Withdrawal or deposit? (w/d):d
-        Checking or savings? (c/s):s
-        Amount?2314
-        Continue? (y/n):n
+    ➜  WeiChengHsu_MidtermIntelliJProject git:(master) ✗ java com.company.Main  
+    Welcome to the UserAccount application
+    Withdrawal or deposit? (w/d):w
+    Checking or savings? (c/s):c
+    Amount?fdsdj
+    Error! Invalid decimal value. Try again.
+    Amount?2312312
+    Error! Not enough deposit, please withdraw with a smaller amount
+    Continue? (y/n):y
+    Withdrawal or deposit? (w/d):w
+    Checking or savings? (c/s):c
+    Amount?21
+    Continue? (y/n):y
+    Withdrawal or deposit? (w/d):d
+    Checking or savings? (c/s):123412
+    Error! Choice. Try again.
+    Checking or savings? (c/s):s
+    Amount?414343
+    Continue? (y/n):n
 
-        Monthly Payments and Fees
-        Checking fee:              $1.00               
-        Savings interest payment:  $33.47              
+    Monthly Payments and Fees
+    Checking fee:              $1.00
+    Savings interest payment:  $4194.96
 
-        Final Balances
-        Checking: $3435210.00         
-        Saving:   $3347.14            
+    Final Balances
+    Checking: $978.00
+    Saving:   $419496.43
 
-        ============CheckingAccountHistory============
-        Init deposit                   $1000.00         | transaction time:2016-08-06T13:39:09.156
-        Withdraw                       $-101.00         | transaction time:2016-08-06T13:39:13.367
-        Saving                         $3434312.00      | transaction time:2016-08-06T13:39:19.038
-        Checking fee                   $-1.00           | transaction time:2016-08-06T13:39:27.246
+    ============CheckingAccountHistory============
+    Init deposit                   $1000.00         | transaction time:2016-08-06T13:55:36.545
+    Level lower than:2312312.0     $0.00            | transaction time:2016-08-06T13:55:43.625
+    Withdraw                       $-21.00          | transaction time:2016-08-06T13:55:51.831
+    Checking fee                   $-1.00           | transaction time:2016-08-06T13:56:04.766
 
-        ============SavingAccountHistory============
-        Init deposit                   $1000.00         | transaction time:2016-08-06T13:39:09.246
-        Saving                         $2314.00         | transaction time:2016-08-06T13:39:26.384
-        Interest Rate                  $33.14           | transaction time:2016-08-06T13:39:27.246
+    ============SavingAccountHistory============
+    Init deposit                   $1000.00         | transaction time:2016-08-06T13:55:36.602
+    Saving                         $414343.00       | transaction time:2016-08-06T13:56:02.526
+    Interest Rate                  $4153.43         | transaction time:2016-08-06T13:56:04.766

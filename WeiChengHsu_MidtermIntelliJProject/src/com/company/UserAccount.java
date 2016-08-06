@@ -55,6 +55,7 @@ class UserAccount implements Account {
                         checkingTransactions.add(new Transaction(actionName, -1*amount));
                     }else{
                         checkingTransactions.add(new Transaction("Level lower than:"+amount, 0));
+                        System.out.println("Error! Not enough deposit, please withdraw with a smaller amount");
                         status = false;
                     }
 
@@ -63,6 +64,7 @@ class UserAccount implements Account {
                         checkingTransactions.add(new Transaction(actionName, -1*amount));
                     }else{
                         checkingTransactions.add(new Transaction("Level lower than:"+amount, 0));
+                        System.out.println("Error! Not enough deposit, please withdraw with a smaller amount");
                         status = false;
                     }
                 }else{
@@ -72,6 +74,7 @@ class UserAccount implements Account {
         }
         return status;
     }
+
 
     public double getBalanceOfCheckingAccount() {
         double balance = 0;
