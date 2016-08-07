@@ -15,16 +15,11 @@ import java.lang.reflect.Array;
  */
 public class SalesData {
 
-    static public void readJSONFile() throws FileNotFoundException {
-//        JSONParser parser = new JSONParser();
+    static public JsonArray readJSONFile() throws FileNotFoundException {
         Gson gson = new Gson();
-
         JsonParser parser = new JsonParser();
-        JsonArray array = parser.parse(new FileReader("./data.json")).getAsJsonArray();
-        System.out.println(array);
-//        gson.fromJson();
-
-
+        JsonArray  reports_by_region = parser.parse(new FileReader("./resources/data.json")).getAsJsonArray();
+        return reports_by_region;
 
     }
 }
