@@ -1,4 +1,26 @@
-CD to `out/production/hw4_2`  and run `java com.company.PersonApp`
+
+
+# 4-1
+
+cd to `hw4_1/out/production/hw4/`
+
+    ➜  hw4 git:(master) ✗ java com.poc.ValidatorTestApp                                                                            git:(master|…
+    String Choice Test
+    Please select one (x/y):
+    f
+    Error! This entry Select one (x/y)
+    Please select one (x/y):
+    s
+    Error! This entry Select one (x/y)
+    Please select one (x/y):
+    g
+    Error! This entry Select one (x/y)
+    Please select one (x/y):
+
+
+# 4-2
+
+cd to `hw4_2/out/production/hw4_2/`
 
         ➜  hw4_2 git:(master) ✗ java com.company.PersonApp                                                                            git:(master|✚4
         Welcome to the Person Tester application

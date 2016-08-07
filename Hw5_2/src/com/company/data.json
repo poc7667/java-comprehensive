@@ -1,0 +1,39 @@
+[
+  {
+    "region": 1,
+    "quarterly_report":[
+      1540,
+      2010,
+      2450,
+      1845
+    ]
+  },
+  {
+    "region": 2,
+    "quarterly_report":[
+      1130 ,
+      1168,
+      1847,
+      1491
+    ]
+  },
+  {
+    "region": 3,
+    "quarterly_report":[
+      1130 ,
+      1168,
+      1847,
+      1491
+    ]
+  },
+  {
+    "region": 4,
+    "quarterly_report":[
+      1130 ,
+      1168,
+      1847,
+      1491
+    ]
+  }
+
+]

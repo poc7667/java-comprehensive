@@ -13,7 +13,7 @@ public class Main {
         int numOfStudents = 0;
         final int MIX_SCORE = 0;
         final int MAX_SCORE = 100;
-	
+
         System.out.println("Scores Application");
         numOfStudents = validator.getIntWithinRange(sc, "Enter number of students :", 0, 100);
         Student[] students = new Student[numOfStudents];
