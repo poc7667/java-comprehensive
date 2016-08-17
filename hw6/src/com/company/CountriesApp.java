@@ -23,8 +23,6 @@ public class CountriesApp {
         this.readTextFile();
     }
 
-
-
     private void readTextFile() {
 
         countriesFilePath = Paths.get(countryFileName);
@@ -61,7 +59,7 @@ public class CountriesApp {
             switch (choice) {
                 case 1:
                     System.out.println();
-                    for (int i = 0; i < getCountries().size() ; i++) {
+                    for (int i = 0; i < getCountries().size(); i++) {
                         System.out.printf("%s\n", getCountries().get(i));
                     }
                     break;
@@ -72,7 +70,7 @@ public class CountriesApp {
                     removeFromCountryList();
                     break;
             }
-            if ( menus.length != choice) {
+            if (menus.length != choice) {
                 choice = getMenuChoice();
             } else {
                 SaveCountriesToFile();
@@ -83,7 +81,7 @@ public class CountriesApp {
     }
 
     public void showMenu() {
-        for (int i = 0; i < menus.length ; i++) {
+        for (int i = 0; i < menus.length; i++) {
             System.out.printf("%d: %s\n", i + 1, menus[i]);
         }
     }
@@ -136,7 +134,6 @@ public class CountriesApp {
         }
     }
 
-
     private void close(Closeable stream) {
         try {
             if (stream != null)
@@ -145,7 +142,6 @@ public class CountriesApp {
             ioe.printStackTrace();
         }
     }
-
 
 
 }
